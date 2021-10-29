@@ -256,7 +256,7 @@ def print_sudoku_solution(solution):
 filenames = ("easy.txt", 
             "medium.txt",
             "hard.txt",
-            "easy.txt")
+            "veryhard.txt")
 
 def main():
     for filename in filenames:
